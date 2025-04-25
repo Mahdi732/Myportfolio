@@ -571,8 +571,8 @@ export default function Portfolio() {
                   <div className="space-y-6">
                     {[
                       { name: "Arabe", level: "Natale", percentage: 100 },
-                      { name: "Anglais", level: "Intermédiaire", percentage: 70 },
-                      { name: "Français", level: "Élémentaire", percentage: 40 },
+                      { name: "Anglais", level: "Intermédiaire", percentage: 40 },
+                      { name: "Français", level: "Élémentaire", percentage: 30 },
                     ].map((language, index) => (
                       <div key={index} className="space-y-2">
                         <div className="flex justify-between">
