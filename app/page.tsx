@@ -220,7 +220,7 @@ export default function Portfolio() {
                     <div className="w-full h-full rounded-full overflow-hidden bg-gradient-to-r from-purple-600 to-indigo-600 p-1">
                       <div className="w-full h-full rounded-full overflow-hidden bg-gray-800">
                         <Image
-                          src="/placeholder.svg?height=400&width=400"
+                          src="/images/mahdi.png"
                           alt="El Mahdi Rahhab"
                           width={400}
                           height={400}
