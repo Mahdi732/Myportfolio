@@ -437,7 +437,7 @@ export default function Portfolio() {
                     <div className="w-full h-full rounded-full overflow-hidden bg-gradient-to-r from-purple-600 to-indigo-600 p-1">
                       <div className="w-full h-full rounded-full overflow-hidden">
                         <Image
-                          src="/placeholder.svg?height=400&width=400"
+                          src="/images/mahdi.png"
                           alt="El Mahdi Rahhab"
                           fill
                           className="object-cover"
@@ -784,15 +784,15 @@ export default function Portfolio() {
                   title: "WEATHERWISE",
                   description:
                     "A modern weather forecast web application that allows users to easily check current weather and short-term forecasts for any city, thanks to an intuitive interface and a third-party weather API.",
-                  image: "/images/weather.jpg",
+                  image: "/images/weather.webp",
                   technologies: ["React.js", "Tailwind CSS", "JavaScript", "Laravel (PHP)", "REST API"],
-                  link: "https://github.com/Mahdi732/Weather-App",
+                  link: "https://weather-app-blond-chi-87.vercel.app/",
                 },
                 {
                   title: "FUT-Champions",
                   description:
                     "This application allows users to build their FUT team by adding, positioning, and modifying players while respecting tactical formations such as 4-4-2 or 4-3-3. The application emphasizes an interactive user interface and dynamic forms.",
-                  image: "/images/footchampion.jpg",
+                  image: "/images/owtwv8todbwx68perkjz.avif",
                   technologies: ["HTML", "CSS / Tailwind CSS", "JavaScript Vanilla"],
                   link: "https://github.com/Mahdi732/FUT-Champions",
                 },
